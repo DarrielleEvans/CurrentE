@@ -1,0 +1,23 @@
+    /*--Navbar-->*/
+.navi-item{
+    float:left;
+    margin: 10px;
+    
+}
+ul li{
+    color: #003566;
+}
+
+.mainBody{
+    background-color: #003566;
+    height: 500px;
+}
+
+.mainFooter{
+    background-color: white;
+    height: 200px;
+}
+.bottomFooter{
+    background-color: #f4ef20;
+    height: 100px;
+}
